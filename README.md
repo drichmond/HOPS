@@ -37,6 +37,6 @@ This work is released under a BSD-3 License.
 
 ## Version Log
 
-* **Version 1.0**: Initial release. Fully-Parallel (Unrolled) Higher-Order
+* **Torino Release**: Initial release. Fully-Parallel (Unrolled) Higher-Order
 functions.
 
